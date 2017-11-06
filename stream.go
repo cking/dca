@@ -2,7 +2,7 @@ package dca
 
 import (
 	"errors"
-	"github.com/bwmarrin/discordgo"
+	"github.com/cking/discordgo"
 	"io"
 	"sync"
 	"time"
